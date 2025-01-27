@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saidharmendra5/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/saidharmendra5/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saidharmendra5/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/saidharmendra5/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/saidharmendra5/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 <!---LeetCode Topics End-->
